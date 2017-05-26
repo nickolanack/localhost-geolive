@@ -1,0 +1,13 @@
+{
+    "type": "json",
+    "name": "localizations",
+    "default": {
+        "hr": {
+            "test": "zi test"
+        },
+        "it": {
+            "test": "la testa"
+        }
+    },
+    "label": "Hello"
+}

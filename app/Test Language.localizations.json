@@ -1,0 +1,8 @@
+{
+    "hr": {
+        "test": "default string value"
+    },
+    "it": {
+        "test": "some overriding string"
+    }
+}
