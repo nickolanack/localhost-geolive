@@ -202,6 +202,20 @@
     "widget.3": {
         "name": "Configuration",
         "instance": "Configuration",
-        "parameters": {}
+        "parameters": {
+            "contentTemplate": "",
+            "comments": "",
+            "parameters": {
+                "containsPrivateData": {
+                    "type": "boolean",
+                    "name": "containsPrivateData",
+                    "default": false,
+                    "label": "Private"
+                }
+            },
+            "containsPrivateData": false,
+            "widgetTitle": "",
+            "readAccess": "public"
+        }
     }
 }
