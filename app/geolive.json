@@ -325,10 +325,10 @@
             },
             "localizations": {
                 "hr": {
-                    "test": "asdfasdf"
+                    "test": "default string value"
                 },
                 "it": {
-                    "test": "la testa"
+                    "test": "some overriding string"
                 }
             },
             "widgetTitle": "Test Language",
