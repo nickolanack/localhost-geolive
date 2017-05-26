@@ -198,5 +198,10 @@
             "widgetTitle": "Test Language",
             "readAccess": "public"
         }
+    },
+    "widget.3": {
+        "name": "Configuration",
+        "instance": "Configuration",
+        "parameters": {}
     }
 }
