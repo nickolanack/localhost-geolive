@@ -67,8 +67,8 @@
                 ""
             ],
             "pluginsPaths": [
-                "{core}\/..\/php-core-maps",
-                "{core}\/..\/php-core-firelight",
+                "\/Users\/nblackwe\/Desktop\/git-nick\/php-core-app\/..\/php-core-maps\/Plugins",
+                "\/Users\/nblackwe\/Desktop\/git-nick\/php-core-app\/..\/php-core-firelight\/Plugins",
                 ""
             ]
         }
