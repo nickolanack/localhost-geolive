@@ -126,6 +126,11 @@
         "instance": "Firelight",
         "parameters": {}
     },
+    "plugin.18": {
+        "name": "Maps",
+        "instance": "Maps",
+        "parameters": {}
+    },
     "widget.1": {
         "name": "Generic Wizard",
         "instance": "WizardBuilder",
