@@ -65,6 +65,11 @@
                 "*.z.geolive.ca",
                 "*.s22.ok.ubc.ca",
                 ""
+            ],
+            "pluginsPaths": [
+                "{core}\/..\/php-core-maps",
+                "{core}\/..\/php-core-firelight",
+                ""
             ]
         }
     },
