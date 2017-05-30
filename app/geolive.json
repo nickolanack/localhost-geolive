@@ -121,6 +121,11 @@
         "instance": "SlackMonitor",
         "parameters": "_SlackMonitor.json"
     },
+    "plugin.17": {
+        "name": "Firelight",
+        "instance": "Firelight",
+        "parameters": {}
+    },
     "widget.1": {
         "name": "Generic Wizard",
         "instance": "WizardBuilder",
