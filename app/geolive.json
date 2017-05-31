@@ -131,6 +131,11 @@
         "instance": "Maps",
         "parameters": {}
     },
+    "plugin.19": {
+        "name": "Google Maps",
+        "instance": "GoogleMaps",
+        "parameters": {}
+    },
     "widget.1": {
         "name": "Generic Wizard",
         "instance": "WizardBuilder",
